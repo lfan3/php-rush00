@@ -5,6 +5,9 @@
 	<title>CRUD Operation on JSON File using PHP</title>
 </head>
 <body>
+<header>
+<a href="login.php">S'indentifier</a>
+</header>
 <a href="add.php">Add</a>
 <table border="1">
 	<thead>
